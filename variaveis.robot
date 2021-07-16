@@ -41,4 +41,4 @@ Média
 Média_1
     ${Média_1}=    evaluate    (${Notas1[0]}+${Notas1[1]}+${Notas1[2]})/3
     Log To Console    ${Média_1}
-    Log    ${Média_1}
+    Log    ${Média_1}    
